@@ -1,7 +1,7 @@
 // Let’s break the code down into smaller chunks.
 // Consider the first if/else block below. 
 // Add console.log(launchReady) after this block, then run the program.
-
+console.log(launchReady)
 //Given the fuelLevel value, should launchReady be true or false after the check?  Is the program behaving as expected?
 
 let launchReady = false;
