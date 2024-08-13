@@ -78,3 +78,7 @@ if (engineIndicatorLight === "green") {
    console.log("engines are off");
 }
 // test!
+let jsCreator = "Brendan Eich";
+
+console.log(jsCreator[-1]);
+console.log(jsCreator[42]);
